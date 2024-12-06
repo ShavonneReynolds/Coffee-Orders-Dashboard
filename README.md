@@ -35,13 +35,15 @@ Datasets were sourced from a single Excel Workbook created by [Mo Chen](https://
 
 ![Excel Dashboard](CoffeeSalesDashboard.png)
 
-## Project Insight
+## Questions
 - Which year had the highest total sales?
 - Who purchased more - Loyalty members or non-loyalty members?
 - What country had the highest sales each year?
-- In relation to overall sales, what percent contribution did each country have?
+- What is the most popular coffee type overall? Each year?
 - What was the highest selling roast overall? Each year?
-- Is there a preference in size for customers? Does it differ between members and non-members?
+- Is there a preference in size for customers?
+
+# Project Insight
 - 
 
 ## Final Conclusion
