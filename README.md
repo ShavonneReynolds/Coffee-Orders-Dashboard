@@ -33,6 +33,7 @@ Datasets were sourced from a single Excel Workbook created by [Mo Chen](https://
 
 
 
+![Excel Dashboard](Coffeeboy)
 
 ## Project Insight
 - Which year had the highest total sales?
