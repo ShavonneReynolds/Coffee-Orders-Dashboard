@@ -32,7 +32,7 @@ Datasets were sourced from a single Excel Workbook created by [Mo Chen](https://
 - Integrated all elements into a cohesive **dashboard** for interactive reporting.   
 
 
-![Excel Dashboard](CoffeeSalesDashboard.png)
+
 
 ## Project Insight
 - Which year had the highest total sales?
