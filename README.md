@@ -44,7 +44,16 @@ Datasets were sourced from a single Excel Workbook created by [Mo Chen](https://
 - Is there a preference in size for customers?
 
 # Project Insight
-- 
+- Total Sales were the best in 2021, with the US and Ireland having their highest-performing years.
+- Non-loyalty card holders brought in more money overall than loyalty card members
+- Light is the most popular roast type as they have the highest sales and quantities ordered by customers
+- Excelsa was the highest in sales; however, Arabica is the most popular amongst customers as it has the largest number of orders and quantities sold.
+- The size of 2.5 kg is the highest in sales, but 0.5 is most popular amongst customers displayed by their large amount of orders and quantities sold.
+
+
+
+
+
 
 ## Final Conclusion
 
