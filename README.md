@@ -59,11 +59,11 @@ Datasets were sourced from a single Excel Workbook created by [Mo Chen](https://
 
 ## Final Conclusion
 
-- To improve overall sales, one or more of the following can occur:
-    1) Increase the marketing for lower contributive countries, such as the UK and Ireland
-    2) Pull away from the UK, tailor to the US, and promote in Ireland more
-    3) Convert non-loyalty members
-    4) Mimic any marketing strategies used in 2021 
+To improve overall sales, one or more of the following can occur:
+  1) Increase the marketing for lower contributive countries, such as the UK and Ireland
+  2) Pull away from the UK, tailor to the US, and promote in Ireland more
+  3) Convert non-loyalty members
+  4) Mimic any marketing strategies used in 2021 
 
 The first strategy allows all means of product distribution to remain and focuses on growth within countries to improve the growth of the company itself. By allocating more resources to build up their lowest sectors, they can tap into untapped markets and increase brand awareness within those countries. This would balance out the distribution of revenue across the countries and encourage sustainable company growth across all existing markets.
 
